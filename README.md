@@ -21,11 +21,8 @@
 <hr>
 <h1><p><strong>国内看不到的新闻同步</strong></p></h1>
 <p><a href="https://git.io/fjJ5Z">九评共产党</a></p>
-<p><a href="https://git.io/fjJ5n">大纪元社论</a></p>
 <p><a href="https://git.io/fjmgE">大纪元大陆时事</a></p>
 <p><a href="https://git.io/fjYcb">大纪元大陆要闻</a></p>
-<p><a href="https://git.io/fjJ5l">新唐人中国时局 </a></p>
-<p><a href="https://git.io/fjJ54">新唐人大陆新闻</a></p>
 <p><a href="https://git.io/fjJ5R">世界各地新闻</a></p>
 <hr>
 <h1><p><strong>直连翻墙网址</strong></p></h1>
@@ -41,18 +38,6 @@
 <strong><a href="https://git.io/*2">&nbsp;&#160;&nbsp;&#160;git.io/*2</a></strong><br>
 <strong><a href="https://git.io/*5">&nbsp;&#160;&nbsp;&#160;git.io/*5</a></strong><br>
 <strong><a href="https://git.io/*7">&nbsp;&#160;&nbsp;&#160;git.io/*7</a></strong><br>
-<hr>
-<img src="https://raw.githubusercontent.com/szzd1/1/master/t/a.JPG">
-<p>逐一点击，你一定会成功翻墙</p>
-      <a href="https://s3.us-east-2.amazonaws.com/ogateh/show.htm?from=852" rel="nofollow">入口</a>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=852" rel="nofollow">入口</a>
-      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/show.htm?from=852" rel="nofollow">入口</a><br>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/show.htm?from=852" rel="nofollow">入口</a>
-      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/show.htm?from=852" rel="nofollow">入口</a>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=852" rel="nofollow">入口</a><br>
-      <a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?from=852" rel="nofollow">入口</a>
-      <a href="https://s3.ca-central-1.amazonaws.com/ogatec/show.htm?from=852" rel="nofollow">入口</a>
-      <a href="https://s3-ap-northeast-1.amazonaws.com/ogatet/show.htm?from=852" rel="nofollow">入口</a><br>
 <hr>
 <h1><p><strong>聚缘阁翻墙网址</strong></p></h1>
 <p>
