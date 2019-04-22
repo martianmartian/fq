@@ -20,9 +20,10 @@
 <p><a href="https://git.io/vAonz">神州正道安卓（电视机顶盒版）</a></p>
 <hr>
 <h1><p><strong>国内看不到的新闻同步</strong></p></h1>
-<p><a href="https://git.io/fjJ5Z">大纪元社论</a></p>
 <p><a href="https://git.io/fjmgE">大纪元大陆时事</a></p>
 <p><a href="https://git.io/fjYcb">大纪元大陆要闻</a></p>
+<p><a href="https://git.io/fj3Go">大纪元全球热点</a></p>
+<p><a href="https://git.io/fjJ5Z">大纪元社论</a></p>
 <p><a href="https://git.io/fjOvK">大纪元评论</a></p>
 <p><a href="https://git.io/fjJ5R">世界各地新闻</a></p>
 <hr>
