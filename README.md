@@ -8,6 +8,7 @@
 <a name="8" id="8" target="_blank"></a> <span id="8"></span>
 <a name="9" id="9" target="_blank"></a> <span id="9"></span>
 <img src="https://raw.githubusercontent.com/szzd1/1/master/t/fq1.jpg"><br>
+可向 fr45tr@gmail.com 索取推广网址
 <h1><p><strong>下载一键翻墙软件</strong></p></h1>
 <p><a href="https://git.io/vQjqe">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
 <img src="https://raw.githubusercontent.com/szzd1/1/master/t/sz.jpg"><br>
@@ -28,21 +29,6 @@
 <p><a target="_blank" href="https://git.io/fjCWz">大纪元中华正统文化</a></p>
 <p><a target="_blank" href="https://git.io/toutiao">世界各地新闻</a></p>
 <hr>
-<h1><p><strong>直连翻墙网址</strong></p></h1>
-<strong>可向 fr45tr@gmail.com 索取推广网址。</strong><br>
-<strong>下面所有入口网址是动态的，如果打不开需刷新一下</strong><br>
-<strong>如果微信提示无法访问，点右上角选择从浏览器打开</strong><br>
-<strong>如果国内浏览器打不开，用IE、Firefox、Chrome打开</strong><br>
-<strong>鉴于GFW封锁不断升级，强烈推荐使用<a target="_blank" href="https://github.com/szzd1/2/blob/master/README.md?u#%E4%B8%8B%E8%BD%BD%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6
-">一键翻墙软件</a></strong><br><br>
-<p><strong>&nbsp;&#160;简易翻墙网址</strong></p>
-<img src="https://raw.githubusercontent.com/szzd1/1/master/t/gif2.gif">
-<strong><a target="_blank" href="https://git.io/*a">&nbsp;&#160;&nbsp;&#160;git.io/*a</a></strong><br>
-<strong><a target="_blank" href="https://git.io/*h">&nbsp;&#160;&nbsp;&#160;git.io/*h</a></strong><br>
-<strong><a target="_blank" href="https://git.io/*i">&nbsp;&#160;&nbsp;&#160;git.io/*i</a></strong><br>
-<strong><a target="_blank" href="https://git.io/*j">&nbsp;&#160;&nbsp;&#160;git.io/*j</a></strong><br>
-<hr>
-<h1><p><strong>聚缘阁翻墙网址</strong></p></h1>
 <h1>
 <p><strong>数点梅花天地春</strong></p>
 </h1>
