@@ -25,7 +25,7 @@
 <p><a target="_blank" href="https://git.io/fj3Go">大纪元全球热点</a></p>
 <p><a target="_blank" href="https://git.io/fjOvK">大纪元时事评论</a></p>
 <p><a target="_blank" href="https://git.io/fjCWz">大纪元中华正统文化</a></p>
-<p><a target="_blank" href="https://git.io/fjJ5R">世界各地新闻</a></p>
+<p><a target="_blank" href="https://git.io/toutiao">世界各地新闻</a></p>
 <hr>
 <h1><p><strong>直连翻墙网址</strong></p></h1>
 <strong>可向 fr45tr@gmail.com 索取推广网址。</strong><br>
