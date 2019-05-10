@@ -37,9 +37,9 @@
 <p><strong>&nbsp;&#160;简易翻墙网址</strong></p>
 <img src="https://raw.githubusercontent.com/szzd1/1/master/t/gif2.gif">
 <strong><a target="_blank" href="https://git.io/*a">&nbsp;&#160;&nbsp;&#160;git.io/*a</a></strong><br>
-<strong><a target="_blank" href="https://git.io/*2">&nbsp;&#160;&nbsp;&#160;git.io/*2</a></strong><br>
-<strong><a target="_blank" href="https://git.io/*5">&nbsp;&#160;&nbsp;&#160;git.io/*5</a></strong><br>
-<strong><a target="_blank" href="https://git.io/*7">&nbsp;&#160;&nbsp;&#160;git.io/*7</a></strong><br>
+<strong><a target="_blank" href="https://git.io/*h">&nbsp;&#160;&nbsp;&#160;git.io/*h</a></strong><br>
+<strong><a target="_blank" href="https://git.io/*i">&nbsp;&#160;&nbsp;&#160;git.io/*i</a></strong><br>
+<strong><a target="_blank" href="https://git.io/*j">&nbsp;&#160;&nbsp;&#160;git.io/*j</a></strong><br>
 <hr>
 <h1><p><strong>聚缘阁翻墙网址</strong></p></h1>
 <p>
