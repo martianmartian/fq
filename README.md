@@ -20,25 +20,26 @@
 <p><a href="https://git.io/vAonz">神州正道安卓（电视机顶盒版）</a></p>
 <hr>
 <h1><p><strong>国内看不到的新闻同步</strong></p></h1>
-<p><a href="https://git.io/fjmgE">大纪元大陆时事</a></p>
-<p><a href="https://git.io/fj3Go">大纪元全球热点</a></p>
-<p><a href="https://git.io/fjJ5Z">大纪元社论</a></p>
-<p><a href="https://git.io/fjOvK">大纪元评论</a></p>
-<p><a href="https://git.io/fjJ5R">世界各地新闻</a></p>
+<p><a target="_blank" href="https://git.io/fjJ5Z">九评共产党</a></p>
+<p><a target="_blank" href="https://git.io/fjmgE">大纪元大陆时事</a></p>
+<p><a target="_blank" href="https://git.io/fj3Go">大纪元全球热点</a></p>
+<p><a target="_blank" href="https://git.io/fjOvK">大纪元时事评论</a></p>
+<p><a target="_blank" href="https://git.io/fjCWz">大纪元中华正统文化</a></p>
+<p><a target="_blank" href="https://git.io/fjJ5R">世界各地新闻</a></p>
 <hr>
 <h1><p><strong>直连翻墙网址</strong></p></h1>
 <strong>可向 fr45tr@gmail.com 索取推广网址。</strong><br>
 <strong>下面所有入口网址是动态的，如果打不开需刷新一下</strong><br>
 <strong>如果微信提示无法访问，点右上角选择从浏览器打开</strong><br>
 <strong>如果国内浏览器打不开，用IE、Firefox、Chrome打开</strong><br>
-<strong>鉴于GFW封锁不断升级，强烈推荐使用<a href="https://github.com/szzd1/2/blob/master/README.md?u#%E4%B8%8B%E8%BD%BD%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6
+<strong>鉴于GFW封锁不断升级，强烈推荐使用<a target="_blank" href="https://github.com/szzd1/2/blob/master/README.md?u#%E4%B8%8B%E8%BD%BD%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6
 ">一键翻墙软件</a></strong><br><br>
 <p><strong>&nbsp;&#160;简易翻墙网址</strong></p>
 <img src="https://raw.githubusercontent.com/szzd1/1/master/t/gif2.gif">
-<strong><a href="https://git.io/*a">&nbsp;&#160;&nbsp;&#160;git.io/*a</a></strong><br>
-<strong><a href="https://git.io/*2">&nbsp;&#160;&nbsp;&#160;git.io/*2</a></strong><br>
-<strong><a href="https://git.io/*5">&nbsp;&#160;&nbsp;&#160;git.io/*5</a></strong><br>
-<strong><a href="https://git.io/*7">&nbsp;&#160;&nbsp;&#160;git.io/*7</a></strong><br>
+<strong><a target="_blank" href="https://git.io/*a">&nbsp;&#160;&nbsp;&#160;git.io/*a</a></strong><br>
+<strong><a target="_blank" href="https://git.io/*2">&nbsp;&#160;&nbsp;&#160;git.io/*2</a></strong><br>
+<strong><a target="_blank" href="https://git.io/*5">&nbsp;&#160;&nbsp;&#160;git.io/*5</a></strong><br>
+<strong><a target="_blank" href="https://git.io/*7">&nbsp;&#160;&nbsp;&#160;git.io/*7</a></strong><br>
 <hr>
 <h1><p><strong>聚缘阁翻墙网址</strong></p></h1>
 <p>
