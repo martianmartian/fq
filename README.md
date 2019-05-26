@@ -23,15 +23,13 @@
 <hr>
 <h1><p><strong>国内看不到的新闻同步</strong></p></h1>
 <p><a target="_blank" href="https://git.io/fjCRf">九评共产党</a></p>
-<p><a target="_blank" href="https://git.io/dajiyan">大纪元大陆时事</a></p>
+<p><a target="_blank" href="http://git.io/dajiyan">大纪元大陆时事</a></p>
 <p><a target="_blank" href="https://git.io/fj3Go">大纪元全球热点</a></p>
 <p><a target="_blank" href="https://git.io/fjOvK">大纪元时事评论</a></p>
 <p><a target="_blank" href="https://git.io/fjCWz">大纪元中华正统文化</a></p>
 <p><a target="_blank" href="https://git.io/toutiao">世界各地新闻</a></p>
 <hr>
-<h1>
-<p><strong>数点梅花天地春</strong></p>
-</h1>
+<h1>数点梅花天地春</h1>
 <img src="https://github.com/szzd1/1/blob/master/t/01.jpg">
 <h1><strong><a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?ogQuit.aspx&from=852" rel="nofollow">点击这里 退出中共</a></strong></h1><br>
 <br>
