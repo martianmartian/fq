@@ -49,7 +49,7 @@
 <a id="user-content-
 <hr>
 <h1><p><strong>数点梅花天地春</strong></p></h1>
-<img src="https://github.com/szzd1/1/blob/master/t/01.jpg">
+<img src="https://github.com/szzd1/1/blob/master/t/01.jpg"><br>
 <h1><strong><a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?ogQuit.aspx&from=852" rel="nofollow">点击这里 退出中共</a></strong></h1><br>
 <br>
 <img src="https://github.com/szzd1/1/blob/master/t/03.jpg"><br>
