@@ -22,11 +22,11 @@
 <p><a href="https://git.io/fjIOc">翻墙卡片(2019/05/14)</a></p>
 <hr>
 <h1><p><strong>国内看不到的新闻同步</strong></p></h1>
-<p><a target="_blank" href="https://git.io/fjCRf">九评共产党</a></p>
+<p><a target="_blank" href="https://git.io/fj0Tk">九评共产党</a></p>
 <p><a target="_blank" href="https://git.io/fj0UM">大纪元大陆时事</a></p>
-<p><a target="_blank" href="https://git.io/fj3Go">大纪元全球热点</a></p>
-<p><a target="_blank" href="https://git.io/fjOvK">大纪元时事评论</a></p>
-<p><a target="_blank" href="https://git.io/fjCWz">大纪元中华正统文化</a></p>
+<p><a target="_blank" href="https://git.io/fj0TI">大纪元全球热点</a></p>
+<p><a target="_blank" href="https://git.io/fj0Tt">大纪元时事评论</a></p>
+<p><a target="_blank" href="https://git.io/fj0Tm">大纪元中华正统文化</a></p>
 <p><a target="_blank" href="https://git.io/toutiao">世界各地新闻</a></p>
 <hr><h1>聚缘阁代理</h1>
 <p><strong>网址正常，欢迎访问及推荐给需要的朋友使用</strong></p>
