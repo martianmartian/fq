@@ -19,7 +19,7 @@
 <p><a href="https://raw.githubusercontent.com/szzd3/szzd1.github.io/master/szzd/iPPOTV.zip">爱博电视（电脑版）</a></p>
 <p><a href="https://git.io/fxNjC">神州正道（网页版）</a></p>
 <p><a href="https://git.io/vAonz">神州正道安卓（电视机顶盒版）</a></p>
-<p><a href="https://git.io/fjIOc">翻墙卡片(2019/05/14)</a></p>
+<p><a href="https://git.io/fjIOc">翻墙卡片(2019/06/02)</a></p>
 <hr>
 <h1><p><strong>国内看不到的新闻同步</strong></p></h1>
 <p><a target="_blank" href="https://git.io/fj0Tk">九评共产党</a></p>
