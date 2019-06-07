@@ -8,7 +8,7 @@
 <a name="8" id="8" target="_blank"></a> <span id="8"></span>
 <a name="9" id="9" target="_blank"></a> <span id="9"></span>
 <img src="https://raw.githubusercontent.com/szzd2/1/master/t/fq1.jpg"><br>
-可向 fr45tr@gmail.com 索取推广网址
+可向 fr45tr@gmail.com 索取推广网址 
 <h1><p><strong>下载一键翻墙软件</strong></p></h1>
 <p><a href="https://git.io/vQjqe">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
 <img src="https://raw.githubusercontent.com/szzd2/1/master/t/sz.jpg"><br>
@@ -54,6 +54,7 @@
 即日起，浏览器企业参与对本平台屏蔽的证据可能被按<a href="https://github.com/szzd2/mh/blob/master/README.md">《明慧网通告》</a>收集,<br>
 或被发往各国商务部，作为该企业产品是否参与中共情报和间谍活动的依据。<br>
 希望各企业,遵守国内宪法,秉承道义良知,不要阻止弱势群体的声音。
+<a href="https://github.com/szzd2/djy/blob/master/gb/about-djy.md#1">大纪元投稿</a>信箱：editor@epochtimes.com  传真：1-917-591-2423 or 646-349-5995
 <p>
 <hr>
 <h1><p><strong>数点梅花天地春</strong></p></h1>
