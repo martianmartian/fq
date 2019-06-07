@@ -47,14 +47,18 @@
 </p>
 <p>
 <hr>
-<p><a target="_blank" href="https://github.com/szzd2/djy/blob/master/gb/ncid278.md#1">中国人权</a></p>
+<h1><p><strong>中国人权</strong></p></h1>
+<p><a target="_blank" href="https://github.com/szzd2/rq/blob/master/README.md#1">前车之鉴</a></p>
+<p><a target="_blank" href="https://github.com/szzd2/djy/blob/master/gb/nf6123.md#1">起诉江泽民</a></p>
+<p><a target="_blank" href="https://github.com/szzd2/djy/blob/master/gb/ncid278.md#1">中国人权新闻</a></p>
 国内《宪法》<br>
 第35条　中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由。<br>
 第36条　中华人民共和国公民有宗教信仰自由。<br>
 本平台为弱势群体发声，浏览器屏蔽,是在协助中共迫害人权。<br>
 即日起，浏览器企业参与对本平台屏蔽的证据可能被按<a href="https://github.com/szzd2/mh/blob/master/README.md">《明慧网通告》</a>收集,<br>
 或被发往各国商务部，作为该企业产品是否参与中共情报和间谍活动的依据。<br>
-希望各企业,遵守国内宪法,秉承道义良知,不要阻止弱势群体的声音。<hr>
+希望各企业,遵守国内宪法,秉承道义良知,不要阻止弱势群体的声音。
+<hr>
 <h1><p><strong>数点梅花天地春</strong></p></h1>
 <img src="https://raw.githubusercontent.com/szzd2/1/master/t/01.jpg">
 <h1><strong><a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?ogQuit.aspx&from=852" rel="nofollow">点击这里 退出中共</a></strong></h1><br>
