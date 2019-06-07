@@ -45,6 +45,7 @@
 <p>
 <a id="user-content-自媒体视频" class="anchor" href="#%E8%87%AA%E5%AA%92%E4%BD%93%E8%A7%86%E9%A2%91" aria-hidden="true"><svg class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://buudtuvzhl.execute-api.ap-northeast-1.amazonaws.com/bcx" rel="nofollow">自媒体视频</a>
 </p>
+<p>
 <hr>
 <p><a target="_blank" href="https://github.com/szzd2/djy/blob/master/gb/ncid278.md#1">中国人权</a></p>
 国内《宪法》<br>
@@ -52,10 +53,8 @@
 第36条　中华人民共和国公民有宗教信仰自由。<br>
 本平台为弱势群体发声，浏览器屏蔽,是在协助中共迫害人权。<br>
 即日起，浏览器企业参与对本平台屏蔽的证据可能被按<a href="https://github.com/szzd2/mh/blob/master/README.md">《明慧网通告》</a>收集,<br>
-或被发往各国商务部，作为该企业产品是否可能参与中共情报和间谍活动的证据。<br>
-希望各企业,遵守国内宪法,秉承道义良知,不要阻止弱势群体的声音。
-<p>
-<hr>
+或被发往各国商务部，作为该企业产品是否参与中共情报和间谍活动的依据。<br>
+希望各企业,遵守国内宪法,秉承道义良知,不要阻止弱势群体的声音。<hr>
 <h1><p><strong>数点梅花天地春</strong></p></h1>
 <img src="https://raw.githubusercontent.com/szzd2/1/master/t/01.jpg">
 <h1><strong><a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?ogQuit.aspx&from=852" rel="nofollow">点击这里 退出中共</a></strong></h1><br>
