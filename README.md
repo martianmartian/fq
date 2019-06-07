@@ -28,6 +28,14 @@
 <p><a target="_blank" href="https://git.io/fj0Tt">大纪元时事评论</a></p>
 <p><a target="_blank" href="https://git.io/fj0Tm">大纪元中华正统文化</a></p>
 <p><a target="_blank" href="https://git.io/toutiao">世界各地新闻</a></p>
+<p><a target="_blank" href="https://github.com/szzd2/djy/blob/master/gb/ncid278.md#1">中国人权</a></p>
+<hr>
+<a href="https://github.com/szzd2/mh/blob/master/README.md">《明慧网通告》</a>
+国内宪法第35条: 公民有言论、出版、集会、结社、游行、示威的自由。
+本平台为国内弱势群体发声，浏览器屏蔽,是在协助中共迫害人权。
+即日起，浏览器企业参与对本平台屏蔽的证据可能被按<a href="https://github.com/szzd2/mh/blob/master/README.md">《明慧网通告》</a>收集,或被发往各国商务部，作为该企业产品是否参与中共情报和间谍活动的依据。
+希望各企业,遵守国内宪法,秉承道义良知,不要阻止弱势群体的声音。
+
 <hr><h1>聚缘阁代理</h1>
 <p><strong>网址正常，欢迎访问及推荐给需要的朋友使用</strong></p>
 <p>
