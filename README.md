@@ -50,7 +50,7 @@
 <h1><p><strong>中国人权</strong></p></h1>
 <p><a target="_blank" href="https://github.com/szzd2/djy/blob/master/gb/ncid278.md#1">中国人权新闻</a></p>
 <p><a target="_blank" href="https://github.com/szzd2/djy/blob/master/gb/nf6123.md#1">起诉江泽民</a></p>
-<p><a href="https://github.com/szzd2/mh/blob/master/README.md">明慧网通告</a></p>
+<p><a href="https://github.com/szzd2/mh/blob/master/README.md#1">明慧网通告</a></p>
 国内《宪法》<br>
 第35条　中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由。<br>
 第36条　中华人民共和国公民有宗教信仰自由。<br>
