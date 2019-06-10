@@ -57,7 +57,7 @@
 本平台为弱势群体发声，浏览器屏蔽,是在协助中共迫害人权。<br>
 即日起，浏览器企业参与对本平台屏蔽的证据可能被按<a href="https://github.com/szzd2/mh/blob/master/README.md">《明慧网通告》</a>收集,<br>
 或被发往各国商务部，作为该企业产品是否参与中共情报和间谍活动的依据。<br>
-希望各企业,遵守国内宪法,秉承道义良知,不要阻止弱势群体的声音。<a target="_blank" href="https://github.com/szzd2/rq/blob/master/README.md#1">企业的前车之鉴</a>
+希望各企业,遵守国内宪法,秉承道义良知,不要阻止弱势群体的声音。<a target="_blank" href="https://github.com/szzd2/rq/blob/master/README.md#1">迫害人权者前车之鉴</a>
 <hr>
 <h1><p><strong>数点梅花天地春</strong></p></h1>
 <img src="https://raw.githubusercontent.com/szzd2/1/master/t/01.jpg">
