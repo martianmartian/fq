@@ -10,23 +10,23 @@
 <img src="https://raw.githubusercontent.com/dfh2/1/master/t/fq1.jpg"><br>
 可向 fr45tr@gmail.com 索取推广网址
 <h1><p><strong>下载一键翻墙软件</strong></p></h1>
-<p><a href="https://git.io/vQjqe">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
+<p><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk?fldfh2">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
 <img src="https://raw.githubusercontent.com/dfh2/1/master/t/sz.jpg"><br>
-<p><a href="https://git.io/ogatea2">网门（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
+<p><a href="https://raw.githubusercontent.com/oGate2/Up/master/oGate.apk?fldfh2">网门（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
 <p><a href="https://raw.githubusercontent.com/wujieliulan/download/master/um.apk?raw=true">无界浏览（手机版）</a></p>
-<p><a href="https://git.io/fgp">自由门（电脑版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
-<p><a href="https://git.io/vEJlj">无界浏览（电脑版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
+<p><a href="https://raw.githubusercontent.com/freegate-release/website/gh-pages/files/fgp.zip?fldfh2">自由门（电脑版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
+<p><a href="https://raw.githubusercontent.com/wujieliulan/download/master/u.zip?fldfh2">无界浏览（电脑版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
 <p><a href="https://raw.githubusercontent.com/dfh2/szzd1.github.io/master/szzd/iPPOTV.zip">爱博电视（电脑版）</a></p>
-<p><a href="https://git.io/fxNjC">神州正道（网页版）</a></p>
-<p><a href="https://git.io/vAonz">神州正道安卓（电视机顶盒版）</a></p>
+<p><a href="https://raw.githubusercontent.com/szzd1/szzd1.github.io/master/szzd/szzdogate.rar?fldfh2">神州正道（网页版）</a></p>
+<p><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgateTV.apk?fldfh2">神州正道安卓（电视机顶盒版）</a></p>
 <hr>
 <h1><p><strong>国内看不到的新闻同步</strong></p></h1>
-<p><a target="_blank" href="https://git.io/fj0Tk">九评共产党</a></p>
-<p><a target="_blank" href="https://git.io/fj0UM">大纪元大陆时事</a></p>
-<p><a target="_blank" href="https://git.io/fj0TI">大纪元全球热点</a></p>
-<p><a target="_blank" href="https://git.io/fj0Tt">大纪元时事评论</a></p>
-<p><a target="_blank" href="https://git.io/fj0Tm">大纪元中华正统文化</a></p>
-<p><a target="_blank" href="https://git.io/toutiao">世界各地新闻</a></p>
+<p><a target="_blank" href="https://github.com/dfh2/9p/blob/master/README.md?fldfh2">九评共产党</a></p>
+<p><a target="_blank" href="https://github.com/dfh2/djy/blob/master/gb/nsc413.md?fldfh2">大纪元大陆时事</a></p>
+<p><a target="_blank" href="https://github.com/dfh2/djy/blob/master/gb/n24hr.md?fldfh2">大纪元全球热点</a></p>
+<p><a target="_blank" href="https://github.com/dfh2/djy/blob/master/gb/news392.md?fldfh2">大纪元时事评论</a></p>
+<p><a target="_blank" href="thttps://github.com/dfh2/djy/blob/master/gb/news2007.md?fldfh2">大纪元中华正统文化</a></p>
+<p><a target="_blank" href="https://github.com/gfw-breaker/banned-news/blob/master/README.md?fldfh2&type=url14">世界各地新闻</a></p>
 <hr><h1>聚缘阁代理</h1>
 <p><strong>网址正常，欢迎访问及推荐给需要的朋友使用</strong></p>
 <p>
