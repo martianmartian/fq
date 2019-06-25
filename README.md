@@ -25,7 +25,7 @@
 <p><a target="_blank" href="https://github.com/dfh2/djy/blob/master/gb/nsc413.md?fldfh2">大纪元大陆时事</a></p>
 <p><a target="_blank" href="https://github.com/dfh2/djy/blob/master/gb/n24hr.md?fldfh2">大纪元全球热点</a></p>
 <p><a target="_blank" href="https://github.com/dfh2/djy/blob/master/gb/news392.md?fldfh2">大纪元时事评论</a></p>
-<p><a target="_blank" href="thttps://github.com/dfh2/djy/blob/master/gb/news2007.md?fldfh2">大纪元中华正统文化</a></p>
+<p><a target="_blank" href="https://github.com/dfh2/djy/blob/master/gb/news2007.md?fldfh2">大纪元中华正统文化</a></p>
 <p><a target="_blank" href="https://github.com/gfw-breaker/banned-news/blob/master/README.md?fldfh2&type=url14">世界各地新闻</a></p>
 <hr><h1>聚缘阁代理</h1>
 <p><strong>网址正常，欢迎访问及推荐给需要的朋友使用</strong></p>
