@@ -21,11 +21,11 @@
 <p><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgateTV.apk?flcbzs">神州正道安卓（电视机顶盒版）</a></p>
 <hr>
 <h1><p><strong>国内看不到的新闻同步</strong></p></h1>
-<p><a target="_blank" href="https://github.com/cbzs/9p/blob/master/README.md?flcbzs">九评共产党</a></p>
-<p><a target="_blank" href="https://github.com/cbzs/djy/blob/master/gb/nsc413.md?flcbzs">大纪元大陆时事</a></p>
-<p><a target="_blank" href="https://github.com/cbzs/djy/blob/master/gb/n24hr.md?flcbzs">大纪元全球热点</a></p>
-<p><a target="_blank" href="https://github.com/cbzs/djy/blob/master/gb/news392.md?flcbzs">大纪元时事评论</a></p>
-<p><a target="_blank" href="https://github.com/cbzs/djy/blob/master/gb/news2007.md?flcbzs">大纪元中华正统文化</a></p>
+<p><a target="_blank" href="https://github.com/cbzs/9p/blob/master/README.md?flcbzs#1">九评共产党</a></p>
+<p><a target="_blank" href="https://github.com/cbzs/djy/blob/master/gb/nsc413.md?flcbzs#1">大纪元大陆时事</a></p>
+<p><a target="_blank" href="https://github.com/cbzs/djy/blob/master/gb/n24hr.md?flcbzs#1">大纪元全球热点</a></p>
+<p><a target="_blank" href="https://github.com/cbzs/djy/blob/master/gb/news392.md?flcbzs#1">大纪元时事评论</a></p>
+<p><a target="_blank" href="https://github.com/cbzs/djy/blob/master/gb/news2007.md?flcbzs#1">大纪元中华正统文化</a></p>
 <p><a target="_blank" href="https://github.com/gfw-breaker/banned-news/blob/master/README.md?flcbzs&type=url14">世界各地新闻</a></p>
 <hr><h1>聚缘阁代理</h1>
 <p><strong>网址正常，欢迎访问及推荐给需要的朋友使用</strong></p>
