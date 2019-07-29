@@ -55,7 +55,8 @@
 <p>
 <hr>
 <h1><p><strong>中国人权</strong></p></h1>
-<p><a target="_blank" href="https://github.com/cbzs/djy/blob/master/gb/ncid278.md?flcbzs#1">中国人权新闻</a></p>
+<p><a target="_blank" href="https://github.com/cbzs/ntdtv/blob/master/gb/prog1135_1.md?flcbzs#1">新唐人大陆人权</a></p>
+<p><a target="_blank" href="https://github.com/cbzs/djy/blob/master/gb/ncid278.md?flcbzs#1">大纪元中国人权</a></p>
 <p><a target="_blank" href="https://github.com/cbzs/djy/blob/master/gb/nf6123.md?flcbzs#1">起诉江泽民</a></p>
 <p><a href="https://github.com/cbzs/mh/blob/master/README.md?flcbzs#1">明慧网通告</a></p>
 国内《宪法》<br>
