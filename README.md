@@ -26,6 +26,10 @@
 <p><a target="_blank" href="https://github.com/cbzs/djy/blob/master/gb/n24hr.md?flcbzs#1">大纪元全球热点</a></p>
 <p><a target="_blank" href="https://github.com/cbzs/djy/blob/master/gb/news392.md?flcbzs#1">大纪元时事评论</a></p>
 <p><a target="_blank" href="https://github.com/cbzs/djy/blob/master/gb/news2007.md?flcbzs#1">大纪元中华正统文化</a></p>
+<p><a target="_blank" href="https://github.com/cbzs/ntdtv/blob/master/gb/prog204_1.md?flcbzs#1">新唐人大陆新闻</a></p>
+<p><a target="_blank" href="https://github.com/cbzs/ntdtv/blob/master/gb/prog202_1.md?flcbzs#1">新唐人国际新闻</a></p>
+<p><a target="_blank" href="https://github.com/cbzs/ntdtv/blob/master/gb/prog207_1.md?flcbzs#1">新唐人时事评论</a></p>
+<p><a target="_blank" href="https://github.com/cbzs/ntdtv/blob/master/gb/headline-news_1.md?flcbzs#1">新唐人今日头条</a></p>
 <p><a target="_blank" href="https://github.com/gfw-breaker/banned-news/blob/master/README.md?flcbzs&type=url14">世界各地新闻</a></p>
 <hr><h1>聚缘阁代理</h1>
 <p><strong>网址正常，欢迎访问及推荐给需要的朋友使用</strong></p>
