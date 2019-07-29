@@ -8,7 +8,7 @@
 <a name="8" id="8" target="_blank"></a> <span id="8"></span>
 <a name="9" id="9" target="_blank"></a> <span id="9"></span>
 <img src="https://raw.githubusercontent.com/cbzs/1/master/t/fq1.jpg"><br>
-可向 fr45tr@gmail.com 索取推广网址
+可向 fr45tr@gmail.com 索取推广网址,本平台用海外浏览器打开更顺利,推荐Chrome
 <h1><p><strong>下载一键翻墙软件</strong></p></h1>
 <p><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk?flcbzs">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
 <img src="https://raw.githubusercontent.com/cbzs/1/master/t/sz.jpg"><br>
