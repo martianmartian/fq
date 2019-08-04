@@ -64,6 +64,8 @@
 <p><a target="_blank" href="https://github.com/cbzs/ntdtv/blob/master/gb/prog1135_1.md?flcbzs#1">新唐人大陆人权</a></p>
 <p><a target="_blank" href="https://github.com/cbzs/djy/blob/master/gb/ncid278.md?flcbzs#1">大纪元中国人权</a></p>
 <p><a target="_blank" href="https://github.com/cbzs/djy/blob/master/gb/nf6123.md?flcbzs#1">起诉江泽民</a></p>
+<p><a target="_blank" href="https://github.com/cbzs/ntdtv/blob/master/gb/prog1704_1.md?flcbzs#1">百年红祸</a></p>
+<p><a target="_blank" href="https://github.com/cbzs/ntdtv/blob/master/gb/prog422209_1.md?flcbzs#1">追查中共人权迫害者</a></p>
 <p><a href="https://github.com/cbzs/mh/blob/master/README.md?flcbzs#1">明慧网通告</a></p>
 国内《宪法》<br>
 第35条　中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由。<br>
