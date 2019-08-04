@@ -21,16 +21,22 @@
 <p><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgateTV.apk?flcbzs">神州正道安卓（电视机顶盒版）</a></p>
 <hr>
 <h1><p><strong>国内看不到的新闻同步</strong></p></h1>
-<p><a target="_blank" href="https://github.com/cbzs/9p/blob/master/README.md?flcbzs#1">九评共产党</a></p>
 <p><a target="_blank" href="https://github.com/cbzs/djy/blob/master/gb/nsc413.md?flcbzs#1">大纪元大陆时事</a></p>
 <p><a target="_blank" href="https://github.com/cbzs/djy/blob/master/gb/n24hr.md?flcbzs#1">大纪元全球热点</a></p>
 <p><a target="_blank" href="https://github.com/cbzs/djy/blob/master/gb/news392.md?flcbzs#1">大纪元时事评论</a></p>
-<p><a target="_blank" href="https://github.com/cbzs/djy/blob/master/gb/news2007.md?flcbzs#1">大纪元中华正统文化</a></p>
 <p><a target="_blank" href="https://github.com/cbzs/ntdtv/blob/master/gb/prog204_1.md?flcbzs#1">新唐人大陆新闻</a></p>
 <p><a target="_blank" href="https://github.com/cbzs/ntdtv/blob/master/gb/prog202_1.md?flcbzs#1">新唐人国际新闻</a></p>
 <p><a target="_blank" href="https://github.com/cbzs/ntdtv/blob/master/gb/prog207_1.md?flcbzs#1">新唐人时事评论</a></p>
-<p><a target="_blank" href="https://github.com/cbzs/ntdtv/blob/master/gb/headline-news_1.md?flcbzs#1">新唐人今日头条</a></p>
 <p><a target="_blank" href="https://github.com/gfw-breaker/banned-news/blob/master/README.md?flcbzs&type=url14">世界各地新闻</a></p>
+<hr>
+<h1><p><strong>热门专题</strong></p></h1>
+<p><a target="_blank" href="https://github.com/cbzs/ntdtv/blob/master/gb/prog1745_1.md?flcbzs#1">中美贸易战</a></p>
+<p><a target="_blank" href="https://github.com/cbzs/ntdtv/blob/master/gb/prog205_1.md?flcbzs#1">香港反送中</a></p>
+<p><a target="_blank" href="https://github.com/cbzs/ntdtv/blob/master/gb/prog1138_1.md?flcbzs#1">中国时局</a></p>
+<p><a target="_blank" href="https://github.com/cbzs/9p/blob/master/README.md?flcbzs#1">九评共产党</a></p>
+<p><a target="_blank" href="https://github.com/cbzs/ntdtv/blob/master/gb/prog1647_1.md?flcbzs#1">共产党百年真相</a></p>
+<p><a target="_blank" href="https://github.com/cbzs/ntdtv/blob/master/gb/prog447_1.md?flcbzs#1">聚焦“中共活摘器官”暴行</a></p>
+<p><a target="_blank" href="https://github.com/cbzs/ntdtv/blob/master/gb/prog1530_1.md?flcbzs#1">法轮功和平反迫害</a></p>
 <hr><h1>聚缘阁代理</h1>
 <p><strong>网址正常，欢迎访问及推荐给需要的朋友使用</strong></p>
 <p><strong>本站固定域名<a href="https://git.io/juyuange" rel="nofollow">https://git.io/juyuange</a></strong></p>
