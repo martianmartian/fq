@@ -70,7 +70,7 @@
 国内《宪法》<br>
 第35条　中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由。<br>
 第36条　中华人民共和国公民有宗教信仰自由。<br>
-本平台为弱势群体发声，浏览器屏蔽,是在协助中共迫害人权。<br>
+本平台为弱势群体发声，浏览器屏蔽，是在协助中共迫害人权。<br>
 即日起，浏览器企业参与对本平台屏蔽的证据可能被按<a target="_blank" href="https://github.com/cbzs/mh/blob/master/README.md?flcbzs#1">《明慧网通告》</a>收集,<br>
 或被发往各国商务部，作为该企业产品是否参与中共情报和间谍活动的依据。<br>
 希望各企业,遵守国内宪法,秉承道义良知,不要阻止弱势群体的声音。<a target="_blank" href="https://github.com/cbzs/rq/blob/master/README.md?flcbzs#1">迫害人权者前车之鉴</a>
