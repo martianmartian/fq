@@ -59,7 +59,7 @@
 <img src="https://raw.githubusercontent.com/clgbyu263/www/master/t/01.jpg">
 <h1><strong><a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?ogQuit.aspx&from=852" rel="nofollow">点击这里 退出中共</a></strong></h1><br>
 <br>
-<img src="https://raw.githubusercontent.com/clgbyu263/www/master/t/03.jpg"><br>
+<img src="https://github.com/pnejs292/www/blob/master/t/01.jpg"><br>
 <img src="https://raw.githubusercontent.com/clgbyu263/www/master/t/04.jpg"><br>
 <img src="https://raw.githubusercontent.com/clgbyu263/www/master/t/06.jpg"><br>
 <img src="https://raw.githubusercontent.com/clgbyu263/www/master/t/07.jpg"><br>
